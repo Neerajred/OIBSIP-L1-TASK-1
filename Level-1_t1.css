@@ -1,0 +1,94 @@
+.navbar {
+    height: 80px;
+    background-color: rgba(0, 0, 0, 0.742);
+    display: flex;
+    align-items: center;
+
+}
+.con1 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 25px;
+    font-size: 25px;
+    padding: 10px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.con1:hover
+{
+    background-color: rgba(250, 235, 215, 0.616);
+}
+body{
+    background-image: url('https://github.com/Neerajred/OIBSIP-TASK-1/blob/main/images/Telangana.jpg?raw=true');
+    background-position: cover;
+    background-size: cover;
+}
+.card {
+    height: 510px;
+
+
+}
+.footer {
+    background-color: rgba(0, 0, 0, 0.742);
+    height: 120px;
+}
+.image
+{
+    float: right;
+    width: 50%;
+}
+.text {
+    width: 40%;
+    text-align: left;
+    justify-content: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: Courier;
+    font-weight: bold;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+.button {
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 7px;
+    height: 40px;
+    padding: 10px;
+    background-color: rgb(4, 246, 250);
+    
+}
+.button:hover {
+    background-color: rgb(207, 129, 33);
+}
+.con {
+    text-decoration: none;
+    margin: 25px;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 5px;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 65px;
+}
+.con:hover {
+    font-size: 40px;
+}
+.contact {
+    display: inline;
+
+}
+.social {
+    justify-content: center;
+    display: flex;
+}
+.last-line
+{
+    color: aliceblue;
+    justify-content: center;
+    display: flex;
+}
